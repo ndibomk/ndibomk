@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ndibomk
-- 👀 I’m interested in programming
+-  @ndibomk dreaming to become the best programmer 
 
 <!---
 ndibomk/ndibomk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
